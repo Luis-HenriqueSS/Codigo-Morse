@@ -1,0 +1,29 @@
+body, * {
+    cursor: url('among_us_30x27-removebg-preview.png'), auto;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    height: 100vh;
+}
+
+input {
+    text-align: center;
+    width: 350px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+button {
+    margin: 5px 5px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+p {
+    font-style: bold;
+    text-align: justify;
+    margin-left: 20vw;
+    margin-right: 20vw;
+}
